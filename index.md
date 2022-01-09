@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Hamro Finance
 
 You can use the [editor on GitHub](https://github.com/hamrofinance/hamrofinance.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
